@@ -1,3 +1,3 @@
-# My Awesome Book
+# Introduction
 
 Understanding the Docker workflow.
